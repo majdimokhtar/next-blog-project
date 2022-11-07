@@ -1,8 +1,8 @@
 .logo {
     text-transform: uppercase;
-    font-size: var(--size-5);
+    font-size: var(--size-8);
     font-weight: bold;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: var(--color-grey-50);
   }
   
